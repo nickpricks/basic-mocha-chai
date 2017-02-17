@@ -1,0 +1,19 @@
+{
+  "name": "mocha-chai",
+  "version": "0.0.1",
+  "description": "A basic chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Nick Walter",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
